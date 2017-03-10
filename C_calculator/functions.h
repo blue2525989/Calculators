@@ -80,11 +80,8 @@ int divide()
 int square()
 {
 	int x;
-	int y;
 	cout<< "enter a number"<<endl;
 	cin>> x;
-	cout<< "enter a number"<<endl;
-	cin>> y;
 	int sum = 0;
 	sum = x * x;
 	return sum;
